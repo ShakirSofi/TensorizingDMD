@@ -1,10 +1,9 @@
 # Tensorizing_dmd
-Tensorizing_DMD
 
-SHAKIR SOFI (Shakir.Sofi@skoltech.ru)
-Files to RUN
+BY: SHAKIR SOFI (Shakir.Sofi@skoltech.ru)<br>
+Files to RUN<br>
 
-Tensor_train Based DMD according to Stefan Klus, and Patrick GelB
+Tensor_train Based DMD according to Stefan Klus, and Patrick GelB<br>
 
 _______________________REQUIREMENTS_______________________________________________<br>
 
