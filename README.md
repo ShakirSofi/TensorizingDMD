@@ -3,7 +3,7 @@
 BY: SHAKIR SOFI (Shakir.Sofi@skoltech.ru)<br>
 Files to RUN<br>
 
-Tensor_train Based DMD according to Stefan Klus, and Patrick GelB<br>
+Tensor_train Based DMD according to Stefan Klus, and Patrick GelB (https://arxiv.org/abs/1606.06625)<br>
 
 _______________________REQUIREMENTS_______________________________________________<br>
 
