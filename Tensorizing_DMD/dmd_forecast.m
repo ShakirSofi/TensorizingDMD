@@ -25,6 +25,6 @@ t_dyn = zeros(r, length(t));
 for i = 1:length(t)
    t_dyn(:, i) = (b.*exp(omega*t(i))); 
 end
-forecast = real(tensorprod(full(ttPhi), t_dyn, [3], [1])); % the last 10 mode-3 slices are prediction maps.
+forecast = real(tensorprod(full(ttPhi), t_dyn, [3], [1])); % the last mode-3 slices are predictions.
 forecast = forecast(:,:,n_shots+2:end);
 end
