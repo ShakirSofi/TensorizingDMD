@@ -26,3 +26,8 @@ ___________ DATASETS______________________________________________________<br>
 signal_separation: synthetic<br>
 Karman vottex : snapshots.npy(provided here)<br>
 Vortall: here is link (https://drive.google.com/file/d/1IXLyzufWGWpD4qThW9I6NXWpfJg-SahK/view?usp=sharing)<br>
+
+
+
+___________________ Citataion_____________________________________
+Sofi, Shakir S., and Ivan Oseledets. "A Case Study of Spatiotemporal Forecasting Techniques for Weather Forecasting." ArXiv, (2022). Accessed May 10, 2024. /abs/2209.14782.
