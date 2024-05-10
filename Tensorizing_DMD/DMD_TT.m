@@ -45,7 +45,7 @@ A = MtP*QNinv*invS ;
 
 % Compute W - eignvector, lambda - eignvalue of reduced A
 [W, Lambda] = eig(A);
-omega = log(diag(Lambda))/dt/(2*pi) ;
+omega = log(diag(Lambda))/dt ;
 F = abs(imag(omega));
 
 % Compute Exact TT-DMD mode
