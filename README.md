@@ -1,6 +1,6 @@
 # Tensorizing_dmd
 
-BY: SHAKIR SOFI (Shakir.Sofi@skoltech.ru)<br>
+Author: SHAKIR SOFI (Shakir.Sofi@skoltech.ru)<br>
 Files to RUN<br>
 
 Tensor_train Based DMD according to Stefan Klus, and Patrick GelB (https://arxiv.org/abs/1606.06625)<br>
@@ -22,12 +22,12 @@ Test4DMD_Karman_Vortex: Karmon Vortex Street Results<br>
 Test4DMDVortall: wake_cylinder example results<br>
 
 ___________ DATASETS______________________________________________________<br>
-
 signal_separation: synthetic<br>
 Karman vottex : snapshots.npy(provided here)<br>
 Vortall: here is link (https://drive.google.com/file/d/1IXLyzufWGWpD4qThW9I6NXWpfJg-SahK/view?usp=sharing)<br>
 
-
-
-___________________ Citataion_____________________________________ <br>
+----------------------------------------------------------------------------------------<br>.
+--------------------- For the tensor train forecasting -------------------------------<br>
+- Check the DMD_test notebook. <br>
+- citataion: <br>
 Sofi, Shakir S., and Ivan Oseledets. "A Case Study of Spatiotemporal Forecasting Techniques for Weather Forecasting." ArXiv, (2022). Accessed May 10, 2024. /abs/2209.14782.
