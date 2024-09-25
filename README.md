@@ -29,5 +29,5 @@ Vortall: here is link (https://drive.google.com/file/d/1IXLyzufWGWpD4qThW9I6NXWp
 ----------------------------------------------------------------------------------------<br>.
 --------------------- For the tensor train forecasting -------------------------------<br>
 - Check the DMD_test notebook. <br>
-- citataion: <br>
-Sofi, Shakir S., and Ivan Oseledets. "A Case Study of Spatiotemporal Forecasting Techniques for Weather Forecasting." ArXiv, (2022). Accessed May 10, 2024. /abs/2209.14782.
+- Citataion: <br>
+Sofi, S.S., Oseledets, I. A case study of spatiotemporal forecasting techniques for weather forecasting. Geoinformatica (2024). https://doi.org/10.1007/s10707-024-00530-y
